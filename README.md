@@ -1,2 +1,2 @@
 # git-github
-github sikhny k liye
+this is for tutorial purpose
